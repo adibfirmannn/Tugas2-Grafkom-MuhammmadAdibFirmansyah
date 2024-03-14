@@ -2,6 +2,12 @@ Nama : Muhammad Adib Firmansyah
 Kelas : SE-05-02
 Nim : 1201220012
 
+Exercise 3.1 
+![ha1](https://github.com/adibfirmannn/Tugas2-Grafkom-MuhammmadAdibFirmansyah/assets/62836231/0b4106a0-530e-475d-82d4-0e1c94df39dc)
+
+![hal2](https://github.com/adibfirmannn/Tugas2-Grafkom-MuhammmadAdibFirmansyah/assets/62836231/55a0fbc1-789f-4b78-a92e-57c9489bdcfe)
+
+
 Exercise 3.2
 Algoritma struktural adalah metode untuk menggambar garis dengan menentukan
 pola berulang langkah horizontal (H) dan diagonal (D). Algoritma ini lebih efisien dan akurat
