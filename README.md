@@ -9,6 +9,8 @@ Exercise 3.1
 
 
 Exercise 3.2
+
+
 Algoritma struktural adalah metode untuk menggambar garis dengan menentukan
 pola berulang langkah horizontal (H) dan diagonal (D). Algoritma ini lebih efisien dan akurat
 dibandingkan algoritma tradisional seperti algoritma garis lurus DDA dan Bresenham.
