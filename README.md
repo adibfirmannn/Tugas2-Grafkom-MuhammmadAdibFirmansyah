@@ -43,6 +43,8 @@ Perbarui posisi piksel (x, y) dan nilai D:
 x += 1
 D += dy
 Ulangi langkah 5.2 dan 5.3 hingga mencapai titik akhir (x1, y1).
+
+
 Kesimpulan:
 Algoritma struktural menggambar garis dengan menghitung dx, dy, dan kemiringan
 garis. Kemudian, persamaan garis digunakan untuk memilih piksel berikutnya berdasarkan
